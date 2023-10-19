@@ -9,7 +9,7 @@ import org.testng.Assert;
 
 
 public class Tugas22 {
-    private final String apiKey = "b0389f34292bf3b2b17fe0267559df45"; // Gantilah dengan kunci API yang valid.
+    private final String apiKey = "b0389f34292bf3b2b17fe0267559df45";
     private final String apiToken = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiMDM4OWYzNDI5MmJmM2IyYjE3ZmUwMjY3NTU5ZGY0NSIsInN1YiI6IjY1MmZhZGZjZWE4NGM3MDEyZDcxZmI4NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.h4z3YkHKEP1FMRuXzGspIAQe8MsKGMqsRNixp5Rcf4Q";
 
     @BeforeClass
